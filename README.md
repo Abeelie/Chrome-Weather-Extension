@@ -1,5 +1,9 @@
 # Weather Chrome Extension 
 
+## Note 
+
+To make this extension work, use your own open weather API key.
+
 ## Getting Started
 
 1. `npm i` to install dependancies
